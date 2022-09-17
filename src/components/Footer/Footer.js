@@ -46,10 +46,10 @@ function Footer() {
           © {new Date().getFullYear()} made with{" "}
           <i className="tim-icons icon-heart-2" /> by{" "}
           <a
-            href="https://www.creative-tim.com/?ref=bdr-user-archive-footer"
+            href="https://www.google.es"
             target="_blank"
           >
-            Creative Tim
+            Carlos Gonzalez
           </a>{" "}
           for a better web.
         </div>

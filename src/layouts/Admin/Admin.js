@@ -109,9 +109,9 @@ function Admin(props) {
             <Sidebar
               routes={routes}
               logo={{
-                outterLink: "https://www.creative-tim.com/",
-                text: "Creative Tim",
-                imgSrc: logo
+                outterLink: "https://cosmos.network/",
+                text: "Cosmos",
+                imgSrc: "https://diariobitcoin.b-cdn.net/wp-content/uploads/2021/02/cosmos-logo.jpg"
               }}
               toggleSidebar={toggleSidebar}
             />
